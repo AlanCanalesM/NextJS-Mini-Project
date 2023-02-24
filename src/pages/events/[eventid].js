@@ -1,4 +1,4 @@
-function EspecificEventPage() {
+function EventDetailPage() {
   return (
     <div>
       <h1>The Event Detail Page</h1>
@@ -7,4 +7,4 @@ function EspecificEventPage() {
 }
 
 
-export default EspecificEventPage;
+export default EventDetailPage;
